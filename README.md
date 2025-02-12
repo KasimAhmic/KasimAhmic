@@ -12,6 +12,6 @@ Full stack developer, TypeScript fanboy, lover of using technologies for things 
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasimAhmic&theme=dark&show_icons=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="400" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasimAhmic&langs_count=8&theme=dark" height="400" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KasimAhmic&theme=dark&show_icons=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasimAhmic&langs_count=8&theme=dark" align="center" />
 </div>
